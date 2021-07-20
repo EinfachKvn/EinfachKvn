@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EinfachKvn
+- 👀 I’m interested in Python - Bots , Idlegames , AI
+- 🌱 I’m currently learning ... Python <- 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... :)
